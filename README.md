@@ -1,4 +1,7 @@
-# test coverage for  [ember-can (v0.8.4)](https://github.com/minutebase/ember-can#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-can.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-can) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-can.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-can)
+# npmtest-ember-can
+
+#### basic test coverage for  [ember-can (v0.8.4)](https://github.com/minutebase/ember-can#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-can.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-can) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-can.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-can)
+
 #### Simple authorisation addon for Ember apps
 
 [![NPM](https://nodei.co/npm/ember-can.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-can)
